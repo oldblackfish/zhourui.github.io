@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Qiong Liu (刘琼)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
+description              : "School of Electronic Information and Communications, Huazhong University of Science and Technology"
+repository               :
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Qiong Liu (刘琼)"
-  avatar           : "images/liuqiong.jpeg"
+  avatar           : "images/liuqiong.png"
   bio              : ""
   location         : "Wuhan, China"
   employer         :
