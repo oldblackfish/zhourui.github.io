@@ -1,3 +1,3 @@
 教授，博导。长期从事视频智能编码、三维立体视频的研究工作，当选中国图象图形学会图象视频通信专委会专业委员、女工委专业委员、中国计算机学会多媒体专委会执行委员、国际标准ISO/IEC MPEG工作组中国代表团专家，曽担任SCI国际期刊IET Image Processing编委及IEEE Transaction on Image Processing、IEEE Transaction on multimedia等多个SCI期刊审稿人。在科研工作方面，围绕三维视频感知与处理方向的理论研究和产业应用，主持国家科技部重点研发课题、国家自然科学基金项目等国家纵向研究项目及校企联合实验室等企业横向合作项目，在国家重大科技规划方向上获得稳定持续的科研资助。其研究成果形成国内外期刊会议论文60余篇、授权专利15项，提出国际编码标准MPEG提案5项。有关技术作为核心模块集成于消费电子、广播电视领域、智慧城市公共安全类产品，形成广泛应用和显著经济效益。申请人于2020年获得英国工程技术学会全球创新奖“通信与信息技术”领域杰出创新奖提名奖，2021年获得中国图形图象学学会科技进步奖二等奖，2022年获得湖北省技术发明一等奖。
 
-My research interest includes 3D video processing and understanding, interactive multimedia, 3D computer vision. 
+My research interest includes 3D video processing and understanding, interactive multimedia, 3D computer vision. Looking for self-motivated students (Ph.D., master, and undergraduate students) working with me. For prospective students, please send me an email (q.liu@hust.edu.cn) with your CV and transcript
