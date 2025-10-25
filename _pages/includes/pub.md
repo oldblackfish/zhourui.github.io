@@ -13,7 +13,8 @@
 - ``IEEE TVCG 2025`` [A Serial Perspective on Photometric Stereo of Filtering and Serializing Spatial Information
 ](https://ieeexplore.ieee.org/document/10907979), Minzhe Xu, Xin Ding, You Yang, Yinqiang Zheng, **Qiong Liu**.
 - ``PR 2025`` [Unsupervised learning non-uniform face enhancement under physics-guided model of illumination decoupling](https://www.sciencedirect.com/science/article/pii/S0031320325000147#aep-article-footnote-id1), Xin Ding, Jing Fang, Zhongyuan Wang, **Qiong Liu**<sup>*</sup>, You Yang, Zhenyu Shu.
-- ``IEEE ICIP 2025`` [Multi-View Multi-Focus Image Fusion: A Novel Benchmark Dataset and Method
-](https://ieeexplore.ieee.org/document/10647581), Zhilong Li; Kejun Wu; Junhao Liu; **Qiong Liu**; You Yang.
+- ``CVIU 2024`` [Deep video compression based on Long-range Temporal Context Learning](https://www.sciencedirect.com/science/article/pii/S107731422400208X), ZKejun Wu, Zhenxing Li, You Yang, **Qiong Liu**<sup>*</sup>.
+- ``ACM TOMM 2024`` [ASIFusion: An Adaptive Saliency Injection-Based Infrared and Visible Image Fusion Network
+](https://dl.acm.org/doi/10.1145/3665893), Ziyi Liu, You Yang, Kejun Wu, **Qiong Liu**<sup>*</sup>, Xinghua Xu, Xiaoxuan Ma, Jiang Tang.
 
 My full paper list is shown at [Google Scholar](https://scholar.google.com/citations?user=x1BREcoAAAAJ&hl=zh-CN).
