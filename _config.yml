@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Qiong Liu (刘琼)"
-description              : "School of Electronic Information and Communications, Huazhong University of Science and Technology"
-repository               :
+description              : "Huazhong University of Science and Technology"
+repository               : "oldblackfish/zhourui.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "Qiong Liu (刘琼)"
   avatar           : "images/liuqiong.png"
-  bio              : ""
+  bio              : "School of Electronic Information and Communications"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
