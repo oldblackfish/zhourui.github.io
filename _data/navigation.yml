@@ -9,14 +9,18 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Patents"
+    url: "/#-patents"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Patents"
-    url: "/#-patents"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "Patents"
-    url: "/#-patents"
+  - title: "Funding and Projects"
+    url: "/#-funding and projects"
+
+  - title: "Activity and Service"
+    url: "/#-activity and service"
+  
