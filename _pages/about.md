@@ -17,6 +17,8 @@ redirect_from:
 
 {% include_relative includes/pat.md %}
 
+{% include_relative includes/edu.md %}
+
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
