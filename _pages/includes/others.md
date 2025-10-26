@@ -14,7 +14,7 @@ Position: Main contributor
 - 2009-2010, Key technologies of 3DTV content generation and display, granted National Key Technology Research and Development Program by the China Ministry of Science and Technology
 Position: Main contributor
 
-# 💻 Activity & Service
+# 💻 Activity and Service
 ## Associate Editor 
 - IET Image Processing, 2020.
 
