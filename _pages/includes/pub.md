@@ -14,7 +14,13 @@
 ](https://ieeexplore.ieee.org/document/10907979), Minzhe Xu, Xin Ding, You Yang, Yinqiang Zheng, **Qiong Liu**.
 - ``PR 2025`` [Unsupervised learning non-uniform face enhancement under physics-guided model of illumination decoupling](https://www.sciencedirect.com/science/article/pii/S0031320325000147#aep-article-footnote-id1), Xin Ding, Jing Fang, Zhongyuan Wang, **Qiong Liu**<sup>*</sup>, You Yang, Zhenyu Shu.
 - ``CVIU 2024`` [Deep video compression based on Long-range Temporal Context Learning](https://www.sciencedirect.com/science/article/pii/S107731422400208X), ZKejun Wu, Zhenxing Li, You Yang, **Qiong Liu**<sup>*</sup>.
+- ``IEEE TCSVT 2024`` [OL-Reg: Registration of Image and Sparse LiDAR Point Cloud With Object-Level Dense Correspondences
+](https://ieeexplore.ieee.org/document/10463050), Pei An, Xuzhong Hu, Junfeng Ding,Jun Zhang, Jie Ma, You Yang, **Qiong Liu**.
 - ``ACM TOMM 2024`` [ASIFusion: An Adaptive Saliency Injection-Based Infrared and Visible Image Fusion Network
 ](https://dl.acm.org/doi/10.1145/3665893), Ziyi Liu, You Yang, Kejun Wu, **Qiong Liu**<sup>*</sup>, Xinghua Xu, Xiaoxuan Ma, Jiang Tang.
+- ``ACM TOMM 2024`` [WaRENet: A Novel Urban Waterlogging Risk Evaluation Network
+](https://dl.acm.org/doi/10.1145/3651163), Xiaoya Yu, Kejun Wu, You Yang, **Qiong Liu**<sup>*</sup>.
+- ``IEEE TITS 2024`` [Survey of Extrinsic Calibration on LiDAR-Camera System for Intelligent Vehicle: Challenges, Approaches, and Trends
+](https://ieeexplore.ieee.org/document/10591453), Pei An, Junfeng Ding, Siwen Quan, Jiaqi Yang, You Yang, **Qiong Liu**, Jie Ma.
 
 My full paper list is shown at [Google Scholar](https://scholar.google.com/citations?user=x1BREcoAAAAJ&hl=zh-CN).
