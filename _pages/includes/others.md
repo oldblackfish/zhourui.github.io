@@ -1,8 +1,3 @@
-
-# 📖 Educations
-- *2010 - 2012*, Postdoc, Automation Department, Tsinghua University. 
-- *200. - 2008*, Ph.D, School of Computer Science, Wuhan University.
-
 # 🏆 Funding and Projects
 - 2018-2021, Depth-based Attention Model and Natural Human-computer Interaction for Tri-Co Robots Reaction, granted by National Natural Science Foundation of China. Position: Independent PI.
 - 2015-2018, Multi-depth Fusion based MVD Joint Processing and Coding, granted by National Natural Science Foundation of China.
