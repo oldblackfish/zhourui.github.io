@@ -1,4 +1,4 @@
-# 📝 Publications
+# 📝 Selected Publications
 - ``ICCV 2025`` [MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP](https://arxiv.org/abs/2507.15257), Pei An, Jiaqi Yang, Muyao Peng, You Yang, **Qiong Liu**, Xiaolin Wu, Liangliang Nan.
 - ``IJCV 2025`` [Enhance Image-to-Point-Cloud Registration with Beltrami Flow](https://link.springer.com/article/10.1007/s11263-025-02575-4), Pei An, You Yang, Jiaqi Yang, Muyao Peng, **Qiong Liu**, Liangliang Nan.
 - ``IEEE TMM 2025`` [End-to-End Deep Video Compression Based on Hierarchical Temporal Context Learning
